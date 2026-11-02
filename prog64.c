@@ -1,3 +1,4 @@
+//FIND THE SIZE OF ARRAY GIVEN
 #include<stdio.h>
 int main ()
 {
